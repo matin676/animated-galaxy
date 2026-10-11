@@ -27,8 +27,8 @@ parameters.branches = 3;
 parameters.spin = 1;
 parameters.randomness = 0.5;
 parameters.randomnessPower = 3;
-parameters.insideColor = "#ff6030";
-parameters.outsideColor = "#1b3984";
+parameters.insideColor = "#ec6941";
+parameters.outsideColor = "#6984c9";
 
 let geometry = null;
 let material = null;
